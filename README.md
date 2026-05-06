@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Niswin Tony 👋
 
-<!--
-**Niswitonyn/Niswitonyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final Year B.Tech CSE Student at SRM Institute of Science and Technology  
+Software Development Intern at Klymate Technologies
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- React
+- FastAPI
+- PostgreSQL
+- Flutter
+- DynamoDB
+- AWS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Digital Court System
+ML + Blockchain + IoT based secure evidence management system
+
+### E-Commerce Platform
+Full-stack platform with authentication and order workflows
+
+### PAX
+Mental health wellbeing app with personalized recommendations
+
+## Currently Learning
+- Backend Architecture
+- Cloud Deployment
+- Scalable API Design
+
+## Connect With Me
+- LinkedIn: linkedin.com/in/niswintony
+- GitHub: github.com/Niswitonyn
